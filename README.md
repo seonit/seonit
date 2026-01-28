@@ -35,3 +35,12 @@ Design & ETC: Figma, Photoshop, ERDCloud, VS Code
 Portfolio: (https://zany-alfalfa-082.notion.site/Develop-Portfolio-246f4c4f2c598083a50afce317a30faf?source=copy_link)
 
 Email: seonit@naver.com
+
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/803902301145758547/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
